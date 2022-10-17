@@ -9,11 +9,11 @@ h1 {
 }
 
 .marker.red {
-    background: linear-gradient(180deg, rgb(122, 0, 0) 0%, rgb(245, 62, 113) 50%, rgb(162, 27, 27) 100%);
+    background: linear-gradient( rgb(122, 0, 0), rgb(245, 62, 113), rgb(162, 27, 27));
 }
 
 .marker.green {
-    background: linear-gradient(180deg, #55680D, #71F53E, #116C31); /*Linear-gradient automatically calculates the color stops for you: 0%, 50%, 100% in this case*/
+    background: linear-gradient( #55680D, #71F53E, #116C31); /*Linear-gradient automatically calculates the color stops for you: 0%, 50%, 100% in this case*/
 }
 
 .marker.blue {
