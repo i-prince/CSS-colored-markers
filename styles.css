@@ -15,6 +15,7 @@ h1 {
 
 .marker.green {
     background: linear-gradient( #55680D, #71F53E, #116C31); /*Linear-gradient automatically calculates the color stops for you: 0%, 50%, 100% in this case*/
+    box-shadow: 5px 5px 5px green ; /*Add blurRadius value of 5px*/
 }
 
 .marker.blue {
