@@ -24,3 +24,9 @@ h1 {
     background-color: rgb(255, 255, 255);
     padding: 10px 0;
 }
+
+.sleeve {
+    width: 110px;
+    height: 25px;
+    background-color: white;
+}
