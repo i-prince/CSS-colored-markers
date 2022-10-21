@@ -10,6 +10,7 @@ h1 {
 
 .marker.red {
     background: linear-gradient( rgb(122, 0, 0), rgb(245, 62, 113), rgb(162, 27, 27));
+    box-shadow: 5px 5px red; /*Adding color shadow to markers, syntax is: box-shadow: offsetX offsetY color*/
 }
 
 .marker.green {
